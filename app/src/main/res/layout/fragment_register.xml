@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/auth_background"
-    tools:context=".RegisterActivity">
+    tools:context=".RegisterFragment">
 
     <TextView
         android:id="@+id/db_events"
